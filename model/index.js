@@ -1,4 +1,4 @@
-const connect = require('./connection.js');
+const connect = require('../config/connection');
 
 
 module.exports = connect;
